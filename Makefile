@@ -1,7 +1,7 @@
 TARGET := iphone:clang:latest:5.0
 ARCHS := armv7 armv7s arm64
 
-include theos/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 TOOL_NAME = open
 open_FILES = open.m

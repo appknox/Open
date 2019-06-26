@@ -1,13 +1,11 @@
-Package: com.conradkramer.open
-Version: 1.1.1
+Package: com.appknox.open
+Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Author: Conrad Kramer <support@kramerapps.com>
+Maintainer: Appknox <engineering@appknox.com>
+Author: Appknox <engineering@appknox.com>
 Section: System
 Description: launch apps from the command-line
-Name: Open
+Name: Open from Appknpx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
 Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: conradkramer
 Tag: purpose::console, role::hacker
