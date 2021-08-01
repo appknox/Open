@@ -6,6 +6,4 @@ Author: Appknox <engineering@appknox.com>
 Section: System
 Description: launch apps from the command-line
 Name: Open from Appknox
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
-Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openData
 Tag: purpose::console, role::hacker
